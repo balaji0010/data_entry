@@ -23,8 +23,8 @@
                 <label for="password" class="form-label">Password</label>
                 <input type="password" name="password" class="form-control" required>
             </div>
-
-            <div class="d-grid mt-4 text-center">
+            
+            <div class="mt-4 text-center">
                 <button type="submit" class="btn btn-green px-4">Submit</button>
             </div>
         </form>
